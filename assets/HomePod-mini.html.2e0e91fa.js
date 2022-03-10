@@ -1,0 +1,1 @@
+const e={key:"v-02e72f06",path:"/get-started/HomePod-mini.html",title:"Firmware Selection (HomePod mini)",lang:"en-US",frontmatter:{title:"Firmware Selection (HomePod mini)",description:"Find out what jailbreaks you can use on your HomePod mini",sidebar:!1,editLink:!1,lastUpdated:!1,contributors:!1},excerpt:"",headers:[],filePathRelative:null,git:{}};export{e as data};
