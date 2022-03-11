@@ -69,7 +69,7 @@ You must have a jailbreak to follow these instructions. If you cannot jailbreak,
 1. Launch your current jailbreak
 1. Open your preferred package manager and add the following repo: [https://cydia.ichitaso.com/](https://cydia.ichitaso.com/)
 1. Search and install the `SupervisedEnabler` package
-1. Reboot your device
+1. Reboot your device (You can also use ldrestart or perform a userspace reboot)
 1. Your device should now be supervised
     - You can check by going into the settings app, where a message should be present at the top indicating so. If there isn't, attempt to reinstall `SupervisedEnabler`
 1. Once you're back into your device, navigate to this webpage
@@ -131,7 +131,7 @@ If you needed to use OTAEnabler, and you needed to modify the Beta Profile in pr
 
 1. Restore rootFS through your jailbreak
 1. Install and open the <router-link to="/installing-unc0ver">unc0ver</router-link> application
-1. Turn off "Disable updates"
+1. Turn off "Block Automatic Updates"
 1. Re-jailbreak using unc0ver
 
 ### It just freezes
